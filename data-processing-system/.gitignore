@@ -1,0 +1,9 @@
+# Java build output
+java/*.class
+
+# Generated runtime output
+java/java_results.txt
+go/go_results.txt
+
+# Common local clutter
+.DS_Store
